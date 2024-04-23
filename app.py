@@ -9,7 +9,8 @@ MYSQL_HOST = os.getenv('MYSQL_HOST', '')
 MYSQL_USER = os.getenv('MYSQL_USER', '')
 MYSQL_PASSWORD = os.getenv('MYSQL_PASSWORD', '')
 MYSQL_DB = os.getenv('MYSQL_DATABASE', '')
-secret_key = os.getenv('SECRET_KEY', '')
+secret_key = os.getenv('secret_key', '')
+print(secret_key)
 
 #print("Check" + MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB, secret_key)
 
