@@ -1,8 +1,8 @@
 # ADT_Group21
 
 <pre>
-Team Members
+Team Members:
+Kabir Chaturvedi (kschatur@iu.edu ) (Team Leader)
 Dhyey Joshi (dhyjoshi@iu.edu ) 
 Vedika Halwasiya (vhalwasi@iu.edu ) 
-Kabir Chaturvedi (kschatur@iu.edu )
 </pre>
